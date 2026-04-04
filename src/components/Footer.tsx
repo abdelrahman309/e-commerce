@@ -34,9 +34,9 @@ const Footer = () => (
         <div>
           <h4 className="font-semibold text-foreground mb-3 text-sm">Support</h4>
           <div className="space-y-2">
-            <span className="block text-sm text-muted-foreground">help@technova.store</span>
-            <span className="block text-sm text-muted-foreground">1-800-TECHNOVA</span>
-            <span className="block text-sm text-muted-foreground">Free shipping over $50</span>
+            <span className="block text-sm text-muted-foreground">abdelrahman.steit@outlook.com</span>
+            <span className="block text-sm text-muted-foreground">+201064651697</span>
+            <span className="block text-sm text-muted-foreground">Free shipping </span>
             <span className="block text-sm text-muted-foreground">30-day returns</span>
           </div>
         </div>
